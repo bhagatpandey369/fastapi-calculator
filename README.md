@@ -25,5 +25,5 @@ This project follows the [12-Factor App](https://12factor.net/) methodology with
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/fastapi-calculator.git
+   git clone https://github.com/bhagatpandey369/fastapi-calculator
    cd fastapi-calculator
